@@ -10,4 +10,4 @@ for x in range(180,1000000000,10):
             if y == 20:
                 num = x
             continue
-print (solution)
+print (num)
